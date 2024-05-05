@@ -1,0 +1,1705 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+ 
+body{
+  background-image: url("Ayuuuu.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ .row-header{
+  display: flex;
+  position: fixed;
+
+ }
+ .half{
+  display: flex;
+  width: 1500px;
+ 
+  
+ }
+ .half h1{
+  font-size: 21px;
+  background-color: black;
+  color: white;
+  height: 42px;
+  font-weight: 600px;
+  font-style: normal;
+  padding: 9px;
+  letter-spacing: 3px;
+  margin-top: 15px;
+  margin-left: 58px;
+ }
+ .tertiary{
+  display: flex;
+
+
+
+  
+  
+ 
+ }
+ #basic-navbar-nav nav{
+  display: flex;
+  font-size: 26px;
+  gap: 42px;
+  font-weight: 500px;
+  color:black;
+  font-style: normal;
+  margin-left: 1000px;
+  margin-top: 15px;
+ 
+
+  
+
+ }
+ 
+
+ #basic-navbar-nav nav :hover{
+  background-color:azure;
+  color: black;
+  
+ }
+
+
+/* Media Query for Mobile Devices */
+@media (max-width: 480px){
+  .container{
+display: flex;
+padding: 5px;
+background-color: #FCF6F5;
+
+
+
+
+.half h1{
+  font-size: 20px;
+   padding: 8px;
+   border-radius: 9px;
+   
+  height: 42px;
+  color:white;
+  font-weight: 800px;
+  background-color: black;
+ 
+  margin-left: 5px;
+
+}
+button{
+  background-color:white;
+    color:black;
+    margin-left: 300px;
+    font-size: 25px;
+    padding: 2px;
+    margin-top: 10px;
+}
+
+#basic-navbar-nav nav  {
+  display: inline;
+  
+
+}
+
+  #basic-navbar-nav {
+    border: none;
+    margin-left: 220px;
+
+
+  }
+  
+  .cont{
+    display: inline;
+  }
+  .nexthalf{
+    display: inline;
+    
+  }
+  .nexthalf img{
+   margin-left: 30px;
+height: 160px;
+margin-top: 225px;
+width: 400px;
+  }
+
+   .nexthalf p{
+    margin-left: 29px;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700px;
+    margin-top: 2px;
+
+
+  }
+  
+  .conts{
+    display: inline;
+  }
+  .nexthalfs{
+    display: inline;
+  }
+
+.nexthalfs img{
+  margin-left: 60px;
+  height: 160px;
+  width: 300px;
+  margin-top: 60px;
+}
+  
+ p{
+  margin-left: 5px;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300px;
+  color: black;
+ }
+ 
+ 
+
+ .ipaad{
+  display: inline;
+}
+.hffs{
+display: inline;
+}
+.ipad-cont{
+display: inline;
+}
+.ipad-mini{
+  margin-left: 30px;
+}
+.ipad-Air{
+  margin-left: 30px;
+}
+.ipad-pro{
+  margin-left: 30px;
+
+}
+
+.text{
+  display: inline;
+}
+.macbook-3{
+  display: inline;
+}
+
+.macbook-3 img{
+  margin-left: 100px;
+  height: 50px;
+  margin-top: 110px;
+}
+
+
+.macbook{
+  display: inline;
+}
+ .hafss{
+  display: inline;
+ }
+   
+
+ .mac-cont{
+  display: inline;
+ }
+
+
+ .mac-mini{
+  margin-left: 30px;
+ }
+
+
+
+ .mac-Air{
+  margin-left: 30px;
+ }
+
+
+ .mac-pro{
+  margin-left: 30px;
+ }
+    
+  .iphone{
+    display: inline;
+  }
+  .nexfts{
+    display: inline;
+  }
+    .nexfts h1{
+      margin-left: 90px;
+      margin-top: 90px;
+      font-size: 70px;
+    }
+
+    .ipad-cont{
+      display: inline;
+    }
+    .ph{
+      display: inline;
+    }
+
+   .iphone8pro{
+    margin-left: 30px;
+    width: 400px;
+   }
+    
+
+   .iphone9pro{
+    margin-left: 30px;
+    width: 400px;
+   }
+   .iphone10pro{
+    margin-left: 30px;
+    width: 400px;
+   }
+  
+  
+   .ph1{
+    display: inline;
+    margin-top: 10px;
+   }
+
+   .iphon11pro{
+    margin-left: 30px;
+    width: 400px;
+   }
+   .iphone12pro{
+    margin-left: 30px;
+    width: 400px;
+   }
+   .iphone13pro{
+    margin-left: 30px;
+    width: 400px;
+   }
+
+   .ph2{
+    display: inline;
+    margin-top: 10px;
+   }
+
+   .iphone14pro{
+    margin-left: 30px;
+    width: 400px;
+   }
+   .iphone15pro{
+    margin-left: 30px;
+    width: 400px;
+   }
+
+   .iphone16pro{
+    margin-left: 30px;
+    width: 400px;
+   }
+
+
+.icon-box{
+  display: flex;
+ 
+
+}
+.icon-set{
+  display: flex;
+  margin-left: 30px;
+   }
+
+
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media Query for low resolution  Tablets, Ipads */
+@media   (min-width: 481px) and (max-width: 767px){
+   .container{
+    display: flex;
+    padding: 10px;
+    background-color:#D3C5E5;
+
+  
+    
+
+  .half h1{
+   font-size: 20px;
+   padding: 8px;
+   border-radius: 9px;
+   
+  height: 42px;
+  color:black;
+  font-weight: 800px;
+  background-color: white;
+  border: 1px solid black;
+  margin-left: 5px;
+
+ 
+
+  }
+
+  button{
+    background-color:white;
+    color:black;
+    margin-left: 340px;
+    font-size: 25px;
+    padding: 2px;
+    margin-top: 14px;
+  
+   
+  
+    
+   }
+
+
+  
+  #basic-navbar-nav nav  {
+    display: inline;
+    
+  
+  }
+
+    #basic-navbar-nav {
+      border: none;
+      margin-left: 220px;
+  
+
+    }
+    #basic-navbar-nav nav :hover{
+      background-color:darkgray;
+      color: black;
+      width: 110px;
+      
+     }
+  
+  .cont{
+    display: inline;
+  }
+  .nexthalf{
+    display: inline;
+    
+  }
+  .nexthalf img{
+   margin-left: 10px;
+height: 280px;
+margin-top: 225px;
+width: 500px;
+  }
+
+   .nexthalf p{
+    margin-left: 25px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700px;
+    margin-top: 2px;
+
+
+  }
+  
+  .conts{
+    display: inline;
+  }
+  .nexthalfs{
+    display: inline;
+  }
+
+.nexthalfs img{
+  margin-left: 60px;
+  height: 210px;
+  width: 360px;
+  margin-top: 60px;
+}
+  
+ p{
+  margin-left: 30px;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 300px;
+  color: black;
+ }
+ 
+ 
+
+ .ipaad{
+  display: inline;
+}
+.hffs{
+display: inline;
+}
+.ipad-cont{
+display: inline;
+}
+.ipad-mini{
+  margin-left: 80px;
+}
+.ipad-Air{
+  margin-left: 80px;
+}
+.ipad-pro{
+  margin-left: 80px;
+
+}
+
+.text{
+  display: inline;
+}
+.macbook-3{
+  display: inline;
+}
+
+.macbook-3 img{
+  margin-left: 130px;
+  height: 50px;
+  margin-top: 90px;
+}
+
+
+.macbook{
+  display: inline;
+}
+ .hafss{
+  display: inline;
+ }
+   
+
+ .mac-cont{
+  display: inline;
+ }
+
+
+ .mac-mini{
+  margin-left: 80px;
+ }
+
+
+
+ .mac-Air{
+  margin-left: 80px;
+ }
+
+
+ .mac-pro{
+  margin-left: 80px;
+ }
+    
+  .iphone{
+    display: inline;
+  }
+  .nexfts{
+    display: inline;
+  }
+    .nexfts h1{
+      margin-left: 120px;
+      margin-top: 70px;
+    }
+
+    .ipad-cont{
+      display: inline;
+    }
+    .ph{
+      display: inline;
+    }
+
+   .iphone8pro{
+    margin-left: 70px;
+   }
+    
+
+   .iphone9pro{
+    margin-left: 70px;
+   }
+   .iphone10pro{
+    margin-left: 70px;
+   }
+  
+  
+   .ph1{
+    display: inline;
+   }
+
+   .iphon11pro{
+    margin-left: 70px;
+   }
+   .iphone12pro{
+    margin-left: 70px;
+   }
+   .iphone13pro{
+    margin-left: 70px;
+   }
+
+   .ph2{
+    display: inline;
+   }
+
+   .iphone14pro{
+    margin-left: 70px;
+   }
+   .iphone15pro{
+    margin-left: 70px;
+   }
+
+   .iphone16pro{
+    margin-left: 70px;
+   }
+
+
+.icon-box{
+  display: flex;
+ 
+
+}
+.icon-set{
+  display: flex;
+  margin-left: 90px;
+}
+
+   }
+  
+  }
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 768px) and (max-width: 1024px){
+ .container{
+  display: flex;
+  padding: 20px;
+background: linear-gradient(#EDF4F2, #EDF4F2);
+
+.half h1{
+  font-size: 22px;
+  padding: 8px;
+  border-radius: 5px;
+  margin-left: 8px;
+ height: 42px;
+ color: black;
+ font-weight: 800px;
+ background-color: white;
+ margin-top: 20px;
+
+ 
+
+ 
+ 
+ }
+
+ #basic-navbar-nav nav  {
+  display: inline;
+  
+
+}
+
+  #basic-navbar-nav {
+    border: none;
+    margin-left: 280px;
+
+  }
+  #basic-navbar-nav nav :hover{
+    background-color:#d3b5ce;
+    color: black;
+    width: 110px;
+    
+   }
+
+ .cont{
+  display: inline;
+ }
+ .nexthalf{
+  display: inline;
+ }
+ .nexthalf img{
+  margin-left: 90px;
+  width: 500px;
+ height: 250px;
+ margin-top: 190px;
+  
+ 
+ }
+ .nexthalf p{
+  margin-left: 70px;
+  font-size: 17px;
+  font-weight: 400px;
+  font-style: normal;
+
+ }
+ button{
+  background-color:white;
+  color:black;
+  margin-left: 370px;
+  font-size: 25px;
+  padding: 2px;
+  margin-top: 15px;
+
+ 
+
+  
+ }
+ .conts{
+  display: inline;
+ }
+ .nexthalfs{
+  display: inline;
+ }
+ .nexthalfs img{
+  margin-left: 100px;
+  height: 190px;
+  margin-top: 50px;
+ }
+
+
+ p{
+  margin-left: 60px;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300px;
+  color: black;
+ }
+
+
+
+ .ipaad{
+  display: inline;
+}
+.hffs{
+display: inline;
+}
+.ipad-cont{
+display: inline;
+}
+.ipad-mini{
+  margin-left: 150px;
+}
+.ipad-Air{
+  margin-left: 150px;
+}
+.ipad-pro{
+  margin-left: 150px;
+
+}
+
+.text{
+  display: inline;
+}
+.macbook-3{
+  display: inline;
+  margin-top: 60px;
+}
+
+.macbook-3 img{
+  margin-left: 160px;
+  height: 70px;
+  margin-top: 70px;
+}
+
+
+.macbook{
+  display: inline;
+}
+ .hafss{
+  display: inline;
+ }
+   
+
+ .mac-cont{
+  display: inline;
+ }
+
+
+ .mac-mini{
+  margin-left: 150px;
+ }
+
+
+
+ .mac-Air{
+  margin-left: 150px;
+ }
+
+
+ .mac-pro{
+  margin-left:150px;
+ }
+    
+  .iphone{
+    display: inline;
+  }
+  .nexfts{
+    display: inline;
+  }
+    .nexfts h1{
+      margin-left: 200px;
+      margin-top: 70px;
+    }
+
+    .ipad-cont{
+      display: inline;
+    }
+    .ph{
+      display: inline;
+    }
+
+   .iphone8pro{
+    margin-left: 140px;
+   }
+    
+
+   .iphone9pro{
+    margin-left: 140px;
+   }
+   .iphone10pro{
+    margin-left: 140px;
+   }
+  
+  
+   .ph1{
+    display: inline;
+   }
+
+   .iphon11pro{
+    margin-left: 140px;
+   }
+   .iphone12pro{
+    margin-left: 140px;
+   }
+   .iphone13pro{
+    margin-left: 140px;
+   }
+
+   .ph2{
+    display: inline;
+   }
+
+   .iphone14pro{
+    margin-left: 150px;
+   }
+   .iphone15pro{
+    margin-left: 150px;
+   }
+
+   .iphone16pro{
+    margin-left: 150px;
+   }
+
+.icon{
+  display: flex;
+  margin-top: 50px;
+}
+.icon-set{
+  display: flex;
+  margin-left: 177px;
+}
+ }
+
+
+
+
+
+
+}
+
+.cont{
+  display: inline;
+  margin-top: 100px;
+}
+.nexthalf{
+  display:inline;
+}
+.nexthalf img{
+  height: 490px;
+  margin-left: 370px;
+  margin-top: 100px;
+}
+.nexthalf p{
+  margin-left: 490px;
+  font-size: 26px;
+  color: black;
+  font-weight: 700px;
+  font-style: normal;
+  margin-top: none;
+  width: 1200px;
+}
+
+
+.conts{
+  display: inline;
+}
+.nexthalfs{
+  display:inline;
+}
+.nexthalfs img{
+  height: 400px;
+  margin-left: 400px;
+  margin-top: 130px;
+}
+
+p{
+  margin-left: 520px;
+  font-size: 20px;
+  color: black;
+  font-weight: 700px;
+  font-style: normal;
+}
+
+
+
+
+
+
+.ipaad{
+  display: flex;
+}
+.hffs{
+  display: flex;
+}
+.ipad-cont{
+  display: flex;
+ 
+}
+.ipad-mini{
+  display: block;
+  border: 3px solid black;
+  width: 390px;
+  height: 500px;
+  border-radius: 9px;
+  margin-top: 90px;
+  background-color:antiquewhite;
+  font-style: normal;
+  padding: 12px;
+  color: black;
+  font-weight: 700px;
+  margin-left: 260px;
+ 
+
+
+ 
+}
+.ipad-mini h1{
+  color: black;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 800px;
+  margin-left:2px;
+  padding: 12px;
+  margin-top: 5px;
+}
+.ipad-mini img{
+  height: 220px;
+  margin-left: 90px;
+  margin-top: 2px;
+  text-align: center;
+
+ 
+}
+.ipad-mini p{
+  margin-left: 2px;
+  font-size: 14px;
+  font-weight: 400px;
+  margin-top: 8px;
+  font-style: normal;
+ 
+}
+
+
+.ipad-Air{
+  display: block;
+  border: 3px solid black;
+  width: 390px;
+  height: 500px;
+  border-radius: 9px;
+  margin-top: 90px;
+  background-color:antiquewhite;
+  font-style: normal;
+  padding: 12px;
+  color: black;
+  font-weight: 700px;
+ 
+  margin-left:70px;
+
+ 
+}
+.ipad-Air h1{
+  color: black;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 800px;
+  margin-left:2px;
+  padding: 12px;
+  margin-top: 5px;
+}
+.ipad-Air img{
+  height: 225px;
+  margin-left: 90px;
+  margin-top: 2px;
+  text-align: center;
+
+ 
+}
+.ipad-Air p{
+  margin-left: 2px;
+  font-size: 15px;
+  font-weight: 400px;
+  margin-top: 15px;
+  font-style: normal;
+}
+
+
+.ipad-pro{
+  display: block;
+  border: 3px solid black;
+  width: 390px;
+  height: 500px;
+  border-radius: 9px;
+  margin-top: 90px;
+  background-color:antiquewhite;
+  font-style: normal;
+  padding: 12px;
+  color: black;
+  font-weight: 700px;
+ 
+  margin-left: 70px;
+
+ 
+}
+.ipad-pro h1{
+  color: black;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 800px;
+  margin-left:2px;
+  padding: 12px;
+  margin-top: 5px;
+}
+.ipad-pro img{
+  height: 225px;
+  margin-left: 90px;
+  margin-top: 2px;
+  text-align: center;
+
+ 
+}
+.ipad-pro p{
+  margin-left: 2px;
+  font-size: 12px;
+  font-weight: 400px;
+  margin-top: 15px;
+  font-style: normal;
+}
+
+
+.text{
+  display: inline;
+}
+.macbook-3 img{
+  margin-left:565px;
+  height: 110px;
+  margin-top: 390px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.macbook{
+  display: flex;
+}
+.hafss{
+  display: flex;
+}
+
+.mac-cont{
+  display: flex;
+ 
+}
+.mac-mini{
+  display: block;
+  border: 3px solid black;
+  width: 390px;
+  height: 500px;
+  border-radius: 9px;
+  margin-top: 60px;
+  background-color:antiquewhite;
+  font-style: normal;
+  padding: 12px;
+  color: black;
+  font-weight: 700px;
+  margin-left: 260px;
+ 
+
+
+ 
+}
+.mac-mini h1{
+  color: black;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 800px;
+  margin-left:2px;
+  padding: 12px;
+  margin-top: 5px;
+}
+.mac-mini img{
+  height: 220px;
+  margin-left: 8px;
+  margin-top: 2px;
+  text-align: center;
+
+ 
+}
+.mac-mini p{
+  margin-left: 2px;
+  font-size: 14px;
+  font-weight: 400px;
+  margin-top: 8px;
+  font-style: normal;
+ 
+}
+
+
+
+.mac-Air{
+  display: block;
+  border: 3px solid black;
+  width: 390px;
+  height: 500px;
+  border-radius: 9px;
+  margin-top: 60px;
+  background-color:antiquewhite;
+  font-style: normal;
+  padding: 12px;
+  color: black;
+  font-weight: 700px;
+  margin-left: 70px;
+ 
+
+
+ 
+}
+.mac-Air h1{
+  color: black;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 800px;
+  margin-left:2px;
+  padding: 12px;
+  margin-top: 5px;
+}
+.mac-Air img{
+  height: 220px;
+  margin-left: 8px;
+  margin-top: 2px;
+  text-align: center;
+
+ 
+}
+.mac-Air p{
+  margin-left: 2px;
+  font-size: 14px;
+  font-weight: 400px;
+  margin-top: 8px;
+  font-style: normal;
+  color:black;
+
+}.mac-pro{
+  display: block;
+  border: 3px solid black;
+  width: 390px;
+  height: 500px;
+  border-radius: 10px;
+  margin-top: 60px;
+  background-color:antiquewhite;
+  font-style: normal;
+  padding: 12px;
+  color: black;
+  font-weight: 700px;
+  margin-left: 70px;
+ 
+
+
+ 
+}
+.mac-pro h1{
+  color: black;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 800px;
+  margin-left:2px;
+  padding: 12px;
+  margin-top: 5px;
+}
+.mac-pro img{
+  height: 220px;
+  margin-left: 8px;
+  margin-top: 2px;
+  text-align: center;
+
+ 
+}
+.mac-pro p{
+  margin-left: 2px;
+  font-size: 14px;
+  font-weight: 400px;
+  margin-top: 8px;
+  font-style: normal;
+  color:black;
+}
+
+
+
+
+
+
+.iphone{
+  display: inline;
+}
+.nexfts{
+  display: inline;
+}
+.nexfts h1{
+  color :black;
+  font-style: normal;
+  font-weight: 900px;
+  font-size: 120px;
+  margin-left: 820px;
+  margin-top: 300px;
+
+}
+.iphone-cont{
+  display:inline-block
+}
+
+.iphone8pro{
+  display: block;
+  border: 3px solid lightslategray;
+  width: 430px;
+  height: 600px;
+  border-radius: 9px;
+  margin-top: 30px;
+  background-color:black;
+  font-style: normal;
+  padding: 12px;
+  color: black;
+  font-weight: 700px;
+  margin-left: 230px;
+}
+
+
+ 
+
+.iphone8pro h1{
+  color: lightslategray;
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 800px;
+  margin-left:2px;
+  padding: 12px;
+  margin-top: 5px;
+}
+.iphone8pro img{
+  height: 300px;
+  margin-left: 8px;
+  margin-top: 2px;
+  text-align: center;
+  width: 300px;
+
+ 
+}
+.iphone8pro p{
+  margin-left: 2px;
+  font-size: 17px;
+  font-weight: 400px;
+  margin-top: 30px;
+  font-style: normal;
+  color: white;
+ 
+}
+.iphone9pro{
+  display: block;
+  border: 3px solid lightslategray;
+  width: 430px;
+  height: 600px;
+  border-radius: 9px;
+  margin-top: 30px;
+  background-color:black;
+  font-style: normal;
+  padding: 12px;
+  color: black;
+  font-weight: 700px;
+  margin-left: 70px;
+}
+
+
+ 
+
+.iphone9pro h1{
+  color: lightslategray;
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 800px;
+  margin-left:2px;
+  padding: 12px;
+  margin-top: 5px;
+}
+.iphone9pro img{
+  height: 300px;
+  margin-left: 8px;
+  margin-top: 2px;
+  text-align: center;
+  width: 300px;
+
+ 
+}
+.iphone9pro p{
+  margin-left: 2px;
+  font-size: 17px;
+  font-weight: 400px;
+  margin-top: 30px;
+  font-style: normal;
+  color: white;
+ 
+}
+.iphone10pro{
+  display: block;
+  border: 3px solid lightslategray;
+  width: 430px;
+  height: 600px;
+  border-radius: 9px;
+  margin-top: 30px;
+  background-color:black;
+  font-style: normal;
+  padding: 12px;
+  color: black;
+  font-weight: 700px;
+  margin-left: 70px;
+}
+
+
+ 
+
+.iphone10pro h1{
+  color: lightslategray;
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 800px;
+  margin-left:2px;
+  padding: 12px;
+  margin-top: 5px;
+}
+.iphone10pro img{
+  height: 300px;
+  margin-left: 8px;
+  margin-top: 2px;
+  text-align: center;
+  width: 300px;
+
+ 
+}
+.iphone10pro p{
+  margin-left: 2px;
+  font-size: 17px;
+  font-weight: 400px;
+  margin-top: 30px;
+  font-style: normal;
+  color: white;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.iphon11pro{
+  display: block;
+  border: 3px solid lightslategray;
+  width: 430px;
+  height: 600px;
+  border-radius: 9px;
+  margin-top: 60px;
+  background-color:black;
+  font-style: normal;
+  padding: 12px;
+  color: black;
+  font-weight: 700px;
+  margin-left: 260px;
+}
+
+
+ 
+
+.iphon11pro h1{
+  color: lightslategray;
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 800px;
+  margin-left:2px;
+  padding: 12px;
+  margin-top: 5px;
+}
+.iphon11pro img{
+  height: 300px;
+  margin-left: 8px;
+  margin-top: 2px;
+  text-align: center;
+  width: 390px;
+
+ 
+}
+.iphon11pro p{
+  margin-left: 2px;
+  font-size: 17px;
+  font-weight: 400px;
+  margin-top: 30px;
+  font-style: normal;
+  color: white;
+ 
+}
+
+
+
+.iphone12pro{
+  display: block;
+  border: 3px solid lightslategray;
+  width: 430px;
+  height: 600px;
+  border-radius: 9px;
+  margin-top: 60px;
+  background-color:black;
+  font-style: normal;
+  padding: 12px;
+  color: black;
+  font-weight: 700px;
+ margin-left: 67px;
+}
+
+
+ 
+
+.iphone12pro h1{
+  color: lightslategray;
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 800px;
+  margin-left:2px;
+  padding: 12px;
+  margin-top: 2px;
+}
+.iphone12pro img{
+  height: 300px;
+  margin-left: 8px;
+  margin-top: 2px;
+  text-align: center;
+  width: 380px;
+
+ 
+}
+.iphone12pro p{
+  margin-left: 2px;
+  font-size: 15px;
+  font-weight: 400px;
+  margin-top: 50px;
+  font-style: normal;
+  color: white;
+}
+
+
+
+.iphone13pro{
+  display: block;
+  border: 3px solid lightslategray;
+  width: 430px;
+  height: 600px;
+  border-radius: 9px;
+  margin-top: 60px;
+  background-color:black;
+  font-style: normal;
+  padding: 12px;
+  color: black;
+  font-weight: 700px;
+ margin-left: 60px;
+}
+
+
+ 
+
+.iphone13pro h1{
+  color: lightslategray;
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 800px;
+  margin-left:2px;
+  padding: 12px;
+  margin-top: 5px;
+}
+.iphone13pro img{
+  height: 300px;
+  margin-left: 8px;
+  margin-top: 2px;
+  text-align: center;
+  width: 390px;
+
+ 
+}
+.iphone13pro p{
+  margin-left: 1px;
+  font-size: 15px;
+  font-weight: 400px;
+  margin-top: 50px;
+  font-style: normal;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+.iphone14pro{
+  display: block;
+  border: 3px solid lightslategray;
+  width: 430px;
+  height: 600px;
+  border-radius: 9px;
+  margin-top: 30px;
+  background-color:black;
+  font-style: normal;
+  padding: 12px;
+  color: black;
+  font-weight: 700px;
+  margin-left: 260px;
+}
+
+
+ 
+
+.iphone14pro h1{
+  color: lightslategray;
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 800px;
+  margin-left:2px;
+  padding: 12px;
+  margin-top: 5px;
+}
+.iphone14pro img{
+  height: 300px;
+  margin-left: 8px;
+  margin-top: 2px;
+  text-align: center;
+  width: 385px;
+
+ 
+}
+.iphone14pro p{
+  margin-left: 2px;
+  font-size: 17px;
+  font-weight: 400px;
+  margin-top: 30px;
+  font-style: normal;
+  color: white;
+ 
+}
+
+
+
+
+.iphone15pro{
+  display: block;
+  border: 3px solid lightslategray;
+  width: 430px;
+  height: 600px;
+  border-radius: 9px;
+  margin-top: 30px;
+  background-color:black;
+  font-style: normal;
+  padding: 12px;
+  color: black;
+  font-weight: 700px;
+ margin-left: 80px;
+}
+
+
+ 
+
+.iphone15pro h1{
+  color: lightslategray;
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 800px;
+  margin-left:2px;
+  padding: 12px;
+  margin-top: 5px;
+}
+.iphone15pro img{
+  height: 300px;
+  margin-left: 8px;
+  margin-top: 2px;
+  text-align: center;
+  width: 390px;
+
+ 
+}
+.iphone15pro p{
+  margin-left: 2px;
+  font-size: 17px;
+  font-weight: 400px;
+  margin-top: 30px;
+  font-style: normal;
+  color: white;
+}
+
+
+
+
+
+
+.iphone16pro{
+  display: block;
+  border: 3px solid lightslategray;
+  width: 430px;
+  height: 600px;
+  border-radius: 9px;
+  margin-top: 30px;
+  background-color:black;
+  font-style: normal;
+  padding: 12px;
+  color: black;
+  font-weight: 700px;
+ margin-left: 60px;
+}
+
+
+ 
+
+.iphone16pro h1{
+  color: lightslategray;
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 800px;
+  margin-left:2px;
+  padding: 12px;
+  margin-top: 5px;
+}
+.iphone16pro img{
+  height: 300px;
+  margin-left: 8px;
+  margin-top: 2px;
+  text-align: center;
+  width: 370px;
+
+ 
+}
+.iphone16pro p{
+  margin-left: 2px;
+  font-size: 17px;
+  font-weight: 400px;
+  margin-top: 30px;
+  font-style: normal;
+  color: white;
+}
+.ph{
+  display: flex;
+}
+.ph1{
+  display: flex;
+}
+.ph2{
+  display: flex;
+}
+a{
+  color: white;
+  text-decoration-line: none;
+}
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+.icon{
+  display: flex;
+}
+.icon-set{
+  display: flex;
+  margin-left: 760px;
+  font-size: 33px;
+  gap: 54px;
+margin-top: 180px;
+padding: 40px;
+}
+
